@@ -1,16 +1,21 @@
-## Hi there 👋
+  # Hi, I'm Satria 👋
 
-<!--
-**satriachandrayw/satriachandrayw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Software Engineer based in Jakarta, Indonesia.
 
-Here are some ideas to get you started:
+  I enjoy turning complex requirements into reliable, maintainable products—
+  from backend systems and web applications to practical AI experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Building: [PasPoto](https://www.paspoto.com) — AI-powered document photo platform
+
+  ## Links
+  [Portfolio](https://www.satriachandrayw.com) ·
+  [LinkedIn](https://linkedin.com/in/satriachandrayw) ·
+  [Email](mailto:hi@satriachandrayw.com)
+
+  ## Languages
+
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
