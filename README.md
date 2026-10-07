@@ -5,7 +5,9 @@
   I enjoy turning complex requirements into reliable, maintainable products—
   from backend systems and web applications to practical AI experiences.
 
-  - Building: [PasPoto](https://www.paspoto.com) — AI-powered document photo platform
+  Building
+  - [PasPoto Studio](https://www.paspoto.com) — AI-powered document photo platform
+  - [Paperclip CLI](https://github.com/satriachandrayw/paperclip-cli) — Standalone CLI for Paperclip control planes remotely
 
   ## Links
   [Portfolio](https://www.satriachandrayw.com) ·
